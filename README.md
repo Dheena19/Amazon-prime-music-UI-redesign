@@ -20,7 +20,7 @@ When customers use the Amazon Prime Video App, they thought of giving Amazon Pri
 Our design managed to overcome almost all of the limitations we identified from the app and received above 70% of positive responses from different categories of user. Our prototype is designed successfully by following Norman’s 7 principles of usability. 
 
 # Link
-Datailed analysis with wiraframes is available in the following figma link
+Detailed analysis with wiraframes is available in the following figma link
 
 https://www.figma.com/file/AXFyivvvG1zwGZdZVRfKso/HCI-Project?node-id=0%3A1&t=npY0kKCdniDa1CtO-1
 
