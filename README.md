@@ -1,7 +1,7 @@
 # Amazon-prime-music-redesign
 Revamping UI with entirely new features
 
-I started my research by understanding more about the Amazon Prime Music service, finding out about its competitors and potential audience. It's the fastest-growing music streaming service with 70% growth last year. What makes it unique is Alexa integration, due to which it has a different target audience as compared to competitors who targets a younger demographic.
+We started our research by understanding more about the Amazon Prime Music service, finding out about its competitors and potential audience. It's the fastest-growing music streaming service with 70% growth last year. What makes it unique is Alexa integration, due to which it has a different target audience as compared to competitors who targets a younger demographic.
 
 Along with the younger audience, about 14% of subscribers to Amazon Music are aged 55 or older, compared with just 5% of competitors' customers.
 
